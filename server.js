@@ -43,6 +43,7 @@ keystone.init({
     
     "name": "Keystone CMS",
     "brand": process.env.BRAND_NAME || "CMS",
+    "favicon": "public/img/favicon.ico",
     "less": "public",
     
     "views": "views",
